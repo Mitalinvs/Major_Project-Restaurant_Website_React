@@ -1,6 +1,6 @@
 <h2><b>Restaurant_Websit_React</b></h2>
 
-Visit <a href="https://major-project-restaurant-website-react.vercel.app/"> Restaurant_Website </a> to view live server.
+Visit <a href="https://major-project-restaurant-website-react.vercel.app/"> Silver Spoon </a> to view live server.
 
 ## Available Scripts
 
